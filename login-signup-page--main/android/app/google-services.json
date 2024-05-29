@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1036108136100",
+    "firebase_url": "https://todo-c8069-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todo-c8069",
+    "storage_bucket": "todo-c8069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036108136100:android:31ce69ce199651e9d6b031",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6TzsyLOGNNGwMxuzPw1uhXO1JEmvOt38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
